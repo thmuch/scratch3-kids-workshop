@@ -3,7 +3,8 @@
 Übungen mit schrittweisen Beispiel-Lösungen für einen zwei- bis dreistündigen Scratch-Workshop.
 Zielgruppe sind Grundschulkinder in der 4. Klasse.
 
-Scratch 3.6.0 Desktop kann [hier](https://scratch.mit.edu/download) heruntergeladen werden.
+Scratch 3.6.0 kann als [Desktop](https://scratch.mit.edu/download)\-Version heruntergeladen
+oder [online](https://scratch.mit.edu/projects/editor/) im Browser genutzt werden.
 
 
 ## Übung "Katz und Mäuse"
