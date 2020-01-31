@@ -26,12 +26,16 @@ Jeden Schritt starten und live zeigen, was programmiert werden soll!
   - nur bis zum Bildschirmrand oben/unten
   - links auf der Stage
 
+![Screenshot Schritt 1](screenshots/step1.png)
+
 #### Schritt 2:
   - Zweites Sprite von rechts nach links durchlaufen lassen (vertikal zentriert) / "Maus" (Name setzen)
   - Kostüm / beide spiegeln, einen verschieben (dafür alles markieren)
   - nur bis zum Bildschirmrand links
   - wieder am rechten Rand erscheinen lassen
   - an zufälliger y-Position erscheinen lassen
+
+![Screenshot Schritt 2](screenshots/step2.png)
 
 #### Schritt 3:
   - Maus startet an zufälliger y-Position
@@ -40,11 +44,17 @@ Jeden Schritt starten und live zeigen, was programmiert werden soll!
   - Maus startet sofort wieder rechts
   - Voice "Lecker" aufnehmen und abspielen
 
+![Screenshot Schritt 3](screenshots/step3.png)
+
 #### Schritt 4:
   - Zähler, wieviele Mäuse gefressen wurden
 
+![Screenshot Schritt 4](screenshots/step4.png)
+
 #### Schritt 5:
   - alle Mäuse, die den linken Rand erreichen, kommen rechts doppelt wieder rein (Clone)
+
+![Screenshot Schritt 5](screenshots/step5.png)
 
 #### Mögliche Ausbaustufen
 
