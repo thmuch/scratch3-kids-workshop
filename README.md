@@ -1,5 +1,11 @@
 # Scratch 3 Kids Workshop
 
+Übungen mit schrittweisen Beispiel-Lösungen für einen zwei- bis dreistündigen Scratch-Workshop.
+Zielgruppe sind Grundschulkinder in der 4. Klasse.
+
+Scratch 3.6.0 Desktop kann [hier](https://scratch.mit.edu/download) heruntergeladen werden.
+
+
 ## Übung "Katz und Mäuse"
 
 Als allererstes: Fertiges Spiel kurz vorführen! :-)
