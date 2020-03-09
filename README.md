@@ -28,6 +28,7 @@ Jeden Schritt starten und live zeigen, was programmiert werden soll!
   - links auf der Stage
 
 ![Screenshot Schritt 1](screenshots/step1.png)
+![Script Schritt 1 Katze](screenshots/step1-cat.png)
 
 #### Schritt 2:
   - Zweites Sprite von rechts nach links durchlaufen lassen (vertikal zentriert) / "Maus" (Name setzen)
@@ -37,28 +38,34 @@ Jeden Schritt starten und live zeigen, was programmiert werden soll!
   - an zufälliger y-Position erscheinen lassen
 
 ![Screenshot Schritt 2](screenshots/step2.png)
+![Script Schritt 2 Maus](screenshots/step2-mouse.png)
 
 #### Schritt 3:
   - Maus startet an zufälliger y-Position
   - Wenn Maus-Sprite das Katzen-Sprite berührt: \
     Katze sagt "Lecker!", Maus sagt "Aua!" (Text) für 0.5s
   - Maus startet sofort wieder rechts
-  - Voice "Lecker" aufnehmen und abspielen
 
 ![Screenshot Schritt 3](screenshots/step3.png)
+![Script Schritt 3 Katze](screenshots/step3-cat.png)
+![Script Schritt 3 Maus](screenshots/step3-mouse.png)
 
 #### Schritt 4:
   - Zähler, wieviele Mäuse gefressen wurden
 
 ![Screenshot Schritt 4](screenshots/step4.png)
+![Script Schritt 4 Katze](screenshots/step4-cat.png)
 
 #### Schritt 5:
   - alle Mäuse, die den linken Rand erreichen, kommen rechts doppelt wieder rein (Clone)
 
 ![Screenshot Schritt 5](screenshots/step5.png)
+![Script Schritt 5 Katze](screenshots/step5-cat.png)
+![Script Schritt 5 Maus](screenshots/step5-mouse.png)
 
 #### Mögliche Ausbaustufen
 
+- Klänge "Lecker" und "Aua" aufnehmen und abspielen (evtl. schon nach Schritt 3)
 - Abwärtszähler, wieviele Mäuse die Katze durchlassen darf (5); bei 0 Spielende
 - Maus mit zufälliger Geschwindigkeit
 
