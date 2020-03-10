@@ -71,12 +71,26 @@ Jeden Schritt starten und live zeigen, was programmiert werden soll!
 
 
 
-## Optional: Übung "Pong" (alleine bzw. zusammen mit Mentor)
+## Optional: Übung "Ping Pong" (alleine bzw. zusammen mit Mentor)
 
-- 2 Player-Sprites am linken bzw. rechten Bildschirmrand
-- mit unterschiedlichen Tasten hoch/runter bewegen
-- Ball-Sprite, der sich frei im Raum bewegt & am Bildschirmrand abprallt
-- und an beiden Player-Sprites abprallt
-- Ende, wenn das Ball-Sprite den linken oder rechten Rand erreicht
-- Ausbau: #Leben (3) pro Player, die runtergezählt werden; Spielende, wenn ein Counter 0
-- Alternativ: Gewinnpunkte pro Player zählen
+![Screenshot Ping Pong](screenshots/pingpong.png)
+
+#### Mögliche Schritte
+
+- Figur für linken Schläger malen
+- per Tastatur (z.B. "q" und "a") auf- und abbewegen
+- Figur für Ball aussuchen und passend skalieren
+- in der Mitte mit zufälliger Drehrichtung starten
+- bei Programmstart fortlaufend den Ball bewegen und vom Rand abprallen lassen
+- wenn der Ball den linken Schläger berührt, Klang "pop" abspielen und Drehrichtung negieren (auf 0-Richtung setzen)
+- rechten Schläger duplizieren und anpassen (Bildschirmposition, Tasten z.B. "p" und "l")
+- Variablen für Punkte (Spieler 1 / Spieler 2) ergänzen und auf der Spielfläche positionieren
+- wenn der Ball zu weit links ist, Punkt für Spieler 2 vergeben und den Ball neu in der Mitte starten
+- wenn der Ball zu weit rechts ist, Punkt für Spieler 1 vergeben und den Ball neu in der Mitte starten
+
+#### Mögliche Lösung
+
+![Script Spieler 1](screenshots/player1.png)
+![Script Spieler 2](screenshots/player2.png)
+![Script Ball](screenshots/ball.png)
+
